@@ -1,39 +1,26 @@
-# Hi there, I'm Sudhakar Raju! 👋
+# 👋 Hi, I'm Sudhakar Raju
 
-## 🚀 About Me
+I'm a Senior Android Developer with over 10 years of experience building high-performance, scalable mobile and backend solutions. I specialize in Kotlin, Jetpack Compose, MVVM, Clean Architecture, and have hands-on experience with modern Android frameworks, IoT integrations, BLE, VoIP, and real-time communication using WebRTC and XMPP.
 
-- 👀 **Passionate about**: Developing Mobile Applications and IoT applications
-- 🌱 **Currently learning**: Python with image processing and computer vision
-- 💞️ **Looking to collaborate on**: IoT projects and image processing applications
-- 🔭 **Working on**: Face liveness detection systems and Android UI components
-- 💬 **Ask me about**: Android development, Computer Vision, IoT, and Mobile UX
-- 📱 **Expertise**: Native Android development with Kotlin/Java
-- 🎯 **Focus areas**: Real-time image processing, custom UI components, IoT integration
+In addition to mobile development, I actively explore AI integration into user-facing products. I recently built [MeetMind](https://meetmind.streamlit.app/), an AI-powered meeting assistant that helps prepare meeting minutes using OpenAI APIs and Streamlit—demonstrating my interest in generative AI, LLMs, and prompt engineering.
 
-## 🛠️ Tech Stack
+## 🚀 What I Do
 
-### Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- 🔧 Architect modular Android apps using Clean Architecture and MVVM  
+- 📲 Build intuitive UIs using Jetpack Compose & Material3  
+- 🛰️ Work on BLE-based IoT apps (smart devices, appliances)  
+- 📞 Develop communication apps using WebRTC and Smack (XMPP)  
+- 🧩 Integrate Room DB, Coroutines, Flows, Retrofit, WorkManager  
+- 🛠️ Set up CI/CD pipelines (GitHub Actions, Bitrise)  
+- 🌐 RESTful API integration, backend in Node.js & Java  
+- 🤖 Build AI tools using OpenAI APIs, Streamlit, and Python  
+- 🧪 Unit & UI testing using JUnit, Espresso, Robolectric  
 
-### Computer Vision & ML
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+I'm always open to collaborating on:  
+- Android app architecture design  
+- BLE/IoT solutions  
+- XMPP or WebRTC projects  
+- AI-powered mobile or web tools  
+- Compose-based open source apps  
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-## 🤝 Let's Connect!
-
-[LinkedIn](https://linkedin.com/in/sudhakar-raju)
-[Gmail](mailto:sudhakar.r08@gmail.com)
-[GitHub](https://github.com/sudhakar-r08)
-
-
-
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sudhakar-raju/) or check out my pinned projects below 👇
